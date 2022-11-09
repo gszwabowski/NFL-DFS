@@ -1,0 +1,7 @@
+models/
+old_notebooks/
+.ipynb_checkpoints/
+Data/
+CurrentData/
+lineups/
+scalers/
